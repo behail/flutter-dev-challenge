@@ -16,7 +16,7 @@ export '../helpers/db_helper.dart';
 export 'utils/reverse_string.dart';
 
 //Pages
-export 'package:assignments/widgets/home_screen.dart';
+export 'package:assignments/screens/home_screen.dart';
 export 'package:assignments/screens/the_page.dart';
 export 'package:assignments/answers/answer_for_q1.dart';
 export 'package:assignments/answers/answer_for_q2.dart';
